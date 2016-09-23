@@ -1,0 +1,7 @@
+总用量 16
+drwxrwxr-x  3 wxd wxd 4096 9月  23 16:12 ./
+drwxr-xr-x 39 wxd wxd 4096 9月  23 16:10 ../
+-rw-rw-r--  1 wxd wxd    0 9月  23 16:11 edit.txt
+drwxrwxr-x  8 wxd wxd 4096 9月  23 16:11 .git/
+-rw-rw-r--  1 wxd wxd    0 9月  23 16:12 ll.txt
+-rw-rw-r--  1 wxd wxd   66 9月  23 16:11 README.md
